@@ -47,4 +47,4 @@ This project enabled me to:
 ---
 
 ## Clone this repository:
-git clone https://github.com/Ma-n-a-v/Tic-Tac-Toe.git
+git clone https://github.com/Ma-n-a-v/dragon_repeller.git
