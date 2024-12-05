@@ -1,4 +1,4 @@
-# **Dragon Repeller Game * 🐉🎮
+# *Dragon Repeller Game* #🐉🎮
 
 ## **Overview** 📝
 **Monster's Lair Adventure** is an interactive action-adventure game developed using **Java** and Object-Oriented Programming (OOP) principles. The project showcases dynamic gameplay mechanics, player progression, and immersive interaction with various in-game elements. 🌟
