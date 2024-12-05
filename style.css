@@ -1,0 +1,40 @@
+body {
+    background-color: #0c0c1b; /* Dark blue-black background */
+    font-family: 'Courier New', Arial, sans-serif; /* Modern and clean font */
+}
+#text {
+    background-color: #e0e0e0;
+    color: rgb(40, 42, 59);
+    padding: 10px;
+}
+#game {
+    max-width: 500px;
+    max-height: 400px;
+    background-color: lightgray;
+    color: white;
+    margin: 0 auto;
+    padding: 10px;
+}
+#controls {
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px black solid;
+    padding: 5px;
+}
+#stat {
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px black solid;
+    color: rgb(40, 42, 59);
+    padding: 5px;
+}
+#monsterStat {
+    display: none;
+    background-color: #e74c3c; /*Red color to display the stats of Monster*/
+    color: rgb(40, 42, 59);
+    border: 1px black solid;
+    padding: 5px;
+}
+.stat {
+    padding-right: 10px;
+}
